@@ -1,4 +1,5 @@
-# Merin | AI/ML & Blockchain Security Engineer
+# Hi, I'm Merin! 👋 
+### Computer Science Student
 
 <p align="left">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
