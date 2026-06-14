@@ -57,3 +57,4 @@ I am always open to discussing smart contract security research, AI agent framew
 * **Email:** merincxavier@gmail.com
 * **GitHub:** [github.com/merinnn](https://github.com/merinnn)
 * **Professional Network:** [Connect on LinkedIn](https://www.linkedin.com/in/merin-c-xavier/)
+* **Portfolio Website:** [Check out my Portfolio](https://merincxavier.netlify.app/)
